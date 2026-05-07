@@ -432,8 +432,4 @@ VITE의 화면은 크게 세 영역으로 구성됩니다.
 - Dynamic Memory Allocation
 - Console Editor
 - Keyboard Input Handling
-- Cross-platform Build# VisualText-Editor-vite-
-# VisualText-Editor-vite-
-# VisualText-Editor-vite-
-# VisualText-Editor-vite-
-# VisualText-Editor-vite-
+- Cross-platform Build# VisualText-Editor-vite
